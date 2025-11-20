@@ -4,7 +4,6 @@
 
 Build a production-ready chat agent that can answer questions about the FastAPI codebase using a knowledge graph and OpenAI's LLM. This assignment tests your ability to design scalable systems, work with graph databases, integrate LLMs, and write maintainable code.
 
-**Time Estimate:** 4-6 hours
 
 ## Objective
 
