@@ -2,7 +2,7 @@
 
 ## Overview
 
-Build a production-ready multi-agent system that can answer questions about the FastAPI codebase. The system must be architected using the Model Context Protocol (MCP), with specialized agents handling distinct responsibilities. This assignment tests your ability to design distributed agent systems, implement MCP servers, work with graph databases, and build scalable AI architectures.
+Build a production-ready multi-agent system that can answer questions about the FastAPI codebase https://github.com/fastapi/fastapi. The system must be architected using the Model Context Protocol (MCP), with specialized agents handling distinct responsibilities. This assignment tests your ability to design distributed agent systems, implement MCP servers, work with graph databases, and build scalable AI architectures.
 
 ## Objective
 
